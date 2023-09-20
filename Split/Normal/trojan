@@ -1,5 +1,5 @@
-trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@104.16.67.38:443?path=%2F1C1eEyrBbGr0r2HZ1tSkA&security=tls&alpn=http%2F1.1&host=ftp.pardazesh.tech&fp=chrome&type=ws&sni=ftp.pardazesh.tech#RELAY🚩 | ftp.pardazesh.tech-443 | 63.88ms
-trojan://1d77bc32-ea1e-4c9d-8db2-440340d96f12@vpnhat.stablize.top:443?security=tls&headerType=none&type=tcp&sni=ap.stablize.top#JP🇯🇵 | ap.stablize.top-443 | 655.78ms
-trojan://21520357e1@ru1.connecton.surf:443?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 334.24ms
-trojan://1d77bc32-ea1e-4c9d-8db2-440340d96f12@vpnpool.stablize.top:443?security=tls&headerType=none&type=tcp&sni=ap.stablize.top#JP🇯🇵 | ap.stablize.top-443 | 186.71ms
-trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@45.131.4.240:443?path=%2F1C1eEyrBbGr0r2HZ1tSkA&security=tls&alpn=http%2F1.1&host=sftp.pardazesh.tech&type=ws&sni=sftp.pardazesh.tech#RELAY🚩 | sftp.pardazesh.tech-443 | 60.4ms
+trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@104.16.67.38:443?path=%2F1C1eEyrBbGr0r2HZ1tSkA&security=tls&alpn=http%2F1.1&host=ftp.pardazesh.tech&fp=chrome&type=ws&sni=ftp.pardazesh.tech#RELAY🚩 | ftp.pardazesh.tech-443 | 37.84ms
+trojan://1d77bc32-ea1e-4c9d-8db2-440340d96f12@vpnhat.stablize.top:443?security=tls&headerType=none&type=tcp&sni=ap.stablize.top#HK🇭🇰 | ap.stablize.top-443 | 700.52ms
+trojan://21520357e1@ru1.connecton.surf:443?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 496.21ms
+trojan://1d77bc32-ea1e-4c9d-8db2-440340d96f12@vpnpool.stablize.top:443?security=tls&headerType=none&type=tcp&sni=ap.stablize.top#SG🇸🇬 | ap.stablize.top-443 | 281.94ms
+trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@45.131.4.240:443?path=%2F1C1eEyrBbGr0r2HZ1tSkA&security=tls&alpn=http%2F1.1&host=sftp.pardazesh.tech&type=ws&sni=sftp.pardazesh.tech#US🇺🇸 | sftp.pardazesh.tech-443 | 40.69ms
