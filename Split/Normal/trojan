@@ -1,6 +1,5 @@
-trojan://telegram-id-privatevpns@13.53.202.178:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#DE🇩🇪 | trj.rollingnext.co.uk-22222 | 137.1ms
-trojan://52407859fe@91.209.70.106:443?security=tls&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 457.33ms
-trojan://6e31f936a2@82.223.108.64:443?security=tls&headerType=none&type=tcp&sni=sp1.connecton.surf#ES🇪🇸 | sp1.connecton.surf-443 | 225.67ms
-trojan://f10d5c0ce1@109.104.155.144:443?security=tls&headerType=none&type=tcp&sni=bra1.connecton.surf#BR🇧🇷 | bra1.connecton.surf-443 | 155.12ms
-trojan://77891e6750@27.0.232.204:443?security=tls&headerType=none&type=tcp&sni=27.0.232.204#HK🇭🇰 | 27.0.232.204-443 | 207.4ms
-trojan://98e142bb-ba07-4e05-8f70-7a2508f36cf7@66.235.200.0:443?path=%2FUZQIPHPSLhOrWRYnp9ok&security=tls&alpn=h2&host=xp0.pardazesh.tech&fp=chrome&type=ws&sni=xp0.pardazesh.tech#US🇺🇸 | xp0.pardazesh.tech-443 | 1.95ms
+trojan://52407859fe@91.209.70.106:443?security=tls&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 343.8ms
+trojan://6e31f936a2@82.223.108.64:443?security=tls&headerType=none&type=tcp&sni=sp1.connecton.surf#ES🇪🇸 | sp1.connecton.surf-443 | 521.73ms
+trojan://f10d5c0ce1@109.104.155.144:443?security=tls&headerType=none&type=tcp&sni=bra1.connecton.surf#BR🇧🇷 | bra1.connecton.surf-443 | 425.58ms
+trojan://77891e6750@27.0.232.204:443?security=tls&headerType=none&type=tcp&sni=27.0.232.204#HK🇭🇰 | 27.0.232.204-443 | 158.65ms
+trojan://98e142bb-ba07-4e05-8f70-7a2508f36cf7@66.235.200.0:443?path=%2FUZQIPHPSLhOrWRYnp9ok&security=tls&alpn=h2&host=xp0.pardazesh.tech&fp=chrome&type=ws&sni=xp0.pardazesh.tech#US🇺🇸 | xp0.pardazesh.tech-443 | 2.32ms
