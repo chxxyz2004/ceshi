@@ -1,4 +1,7 @@
-trojan://52407859fe@91.209.70.106:443?security=tls&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 374.58ms
-trojan://6e31f936a2@82.223.108.64:443?security=tls&headerType=none&type=tcp&sni=sp1.connecton.surf#ES🇪🇸 | sp1.connecton.surf-443 | 310.86ms
-trojan://f10d5c0ce1@109.104.155.144:443?security=tls&headerType=none&type=tcp&sni=bra1.connecton.surf#BR🇧🇷 | bra1.connecton.surf-443 | 309.37ms
-trojan://77891e6750@27.0.232.204:443?security=tls&headerType=none&type=tcp&sni=27.0.232.204#HK🇭🇰 | 27.0.232.204-443 | 189.4ms
+trojan://1a36890b-c594-480f-af13-13c7af8203fc@ru01.celerlink.one:64000?security=tls&headerType=none&type=tcp&sni=ru01.celerlink.one#ES🇪🇸 | ru01.celerlink.one-64000 | 119.35ms
+trojan://50cc2369-674a-4cd7-a428-8f260d4abf23@b2.talamala.co:443?path=%2F6PQbFwJBK7u6ujRD18YrU&security=tls&alpn=http%2F1.1&host=b2.talamala.co&fp=chrome&type=ws&sni=b2.talamala.co#DE🇩🇪 | b2.talamala.co-443 | 219.29ms
+trojan://52407859fe@ru1.connecton.surf:443?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 305.64ms
+trojan://e4bfb6fe1e@de1.connecton.surf:443?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=de1.connecton.surf#DE🇩🇪 | de1.connecton.surf-443 | 88.4ms
+trojan://50cc2369-674a-4cd7-a428-8f260d4abf23@b2.talamala.co:443?mode=gun&security=tls&alpn=http%2F1.1&fp=chrome&type=grpc&serviceName=6PQbFwJBKjVk1LYld&sni=b2.talamala.co#DE🇩🇪 | b2.talamala.co-443 | 434.27ms
+trojan://50cc2369-674a-4cd7-a428-8f260d4abf23@b2.talamala.co:443?path=%2F6PQbFwJBK7u6ujRD18YrU&security=tls&alpn=h2&host=b2.talamala.co&fp=chrome&type=ws&sni=b2.talamala.co#DE🇩🇪 | b2.talamala.co-443 | 218.3ms
+trojan://52407859fe@91.209.70.106:443?security=tls&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 218.65ms
