@@ -1,5 +1,4 @@
-trojan://52407859fe@91.209.70.106:443?security=tls&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 494.75ms
-trojan://6e31f936a2@82.223.108.64:443?security=tls&headerType=none&type=tcp&sni=sp1.connecton.surf#ES🇪🇸 | sp1.connecton.surf-443 | 428.3ms
-trojan://f10d5c0ce1@109.104.155.144:443?security=tls&headerType=none&type=tcp&sni=bra1.connecton.surf#BR🇧🇷 | bra1.connecton.surf-443 | 351.94ms
-trojan://77891e6750@27.0.232.204:443?security=tls&headerType=none&type=tcp&sni=27.0.232.204#HK🇭🇰 | 27.0.232.204-443 | 205.18ms
-trojan://98e142bb-ba07-4e05-8f70-7a2508f36cf7@66.235.200.0:443?path=%2FUZQIPHPSLhOrWRYnp9ok&security=tls&alpn=h2&host=xp0.pardazesh.tech&fp=chrome&type=ws&sni=xp0.pardazesh.tech#RELAY🚩 | xp0.pardazesh.tech-443 | 6.39ms
+trojan://52407859fe@91.209.70.106:443?security=tls&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 374.58ms
+trojan://6e31f936a2@82.223.108.64:443?security=tls&headerType=none&type=tcp&sni=sp1.connecton.surf#ES🇪🇸 | sp1.connecton.surf-443 | 310.86ms
+trojan://f10d5c0ce1@109.104.155.144:443?security=tls&headerType=none&type=tcp&sni=bra1.connecton.surf#BR🇧🇷 | bra1.connecton.surf-443 | 309.37ms
+trojan://77891e6750@27.0.232.204:443?security=tls&headerType=none&type=tcp&sni=27.0.232.204#HK🇭🇰 | 27.0.232.204-443 | 189.4ms
