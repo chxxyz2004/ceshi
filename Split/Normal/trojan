@@ -1,6 +1,6 @@
-trojan://50cc2369-674a-4cd7-a428-8f260d4abf23@b2.talamala.co:443?path=%2F6PQbFwJBK7u6ujRD18YrU&security=tls&alpn=http%2F1.1&host=b2.talamala.co&fp=chrome&type=ws&sni=b2.talamala.co#DE🇩🇪 | b2.talamala.co-443 | 539.09ms
-trojan://52407859fe@ru1.connecton.surf:443?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 381.9ms
-trojan://e4bfb6fe1e@de1.connecton.surf:443?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=de1.connecton.surf#DE🇩🇪 | de1.connecton.surf-443 | 159.01ms
-trojan://50cc2369-674a-4cd7-a428-8f260d4abf23@b2.talamala.co:443?mode=gun&security=tls&alpn=http%2F1.1&fp=chrome&type=grpc&serviceName=6PQbFwJBKjVk1LYld&sni=b2.talamala.co#DE🇩🇪 | b2.talamala.co-443 | 546.17ms
-trojan://50cc2369-674a-4cd7-a428-8f260d4abf23@b2.talamala.co:443?path=%2F6PQbFwJBK7u6ujRD18YrU&security=tls&alpn=h2&host=b2.talamala.co&fp=chrome&type=ws&sni=b2.talamala.co#DE🇩🇪 | b2.talamala.co-443 | 812.83ms
-trojan://52407859fe@91.209.70.106:443?security=tls&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 197.08ms
+trojan://50cc2369-674a-4cd7-a428-8f260d4abf23@b2.talamala.co:443?path=%2F6PQbFwJBK7u6ujRD18YrU&security=tls&alpn=http%2F1.1&host=b2.talamala.co&fp=chrome&type=ws&sni=b2.talamala.co#DE🇩🇪 | b2.talamala.co-443 | 714.08ms
+trojan://52407859fe@ru1.connecton.surf:443?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 387ms
+trojan://e4bfb6fe1e@de1.connecton.surf:443?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=de1.connecton.surf#DE🇩🇪 | de1.connecton.surf-443 | 275.01ms
+trojan://50cc2369-674a-4cd7-a428-8f260d4abf23@b2.talamala.co:443?mode=gun&security=tls&alpn=http%2F1.1&fp=chrome&type=grpc&serviceName=6PQbFwJBKjVk1LYld&sni=b2.talamala.co#DE🇩🇪 | b2.talamala.co-443 | 349.81ms
+trojan://50cc2369-674a-4cd7-a428-8f260d4abf23@b2.talamala.co:443?path=%2F6PQbFwJBK7u6ujRD18YrU&security=tls&alpn=h2&host=b2.talamala.co&fp=chrome&type=ws&sni=b2.talamala.co#DE🇩🇪 | b2.talamala.co-443 | 347.81ms
+trojan://52407859fe@91.209.70.106:443?security=tls&headerType=none&type=tcp&sni=ru1.connecton.surf#BZ🇧🇿 | ru1.connecton.surf-443 | 359.68ms
